@@ -28,8 +28,8 @@ else{
 }
 
 }
-let tipo=prompt("que tipo de vehiculo ha rentado? ")
-let dias=parseInt(prompt("Cuantos dias lo ha rentado? "))
+let tipo=prompt("¿Qué tipo de vehiculo ha rentado? ")
+let dias=parseInt(prompt("¿Cuántos dias lo ha rentado? "))
 let sillita= prompt("Si ha usado silla para bebés escriba ´si´ , caso contrario escriba ´no´ ")
 
 rentalCar(tipo, dias, sillita);
